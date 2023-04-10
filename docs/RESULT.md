@@ -12,7 +12,7 @@
 :white_check_mark: При отсутствии скачанных или доступных для скачивания файлов должен отображаться экран с надписью “Здесь пока ничего нет”;  
 
 <p align="center">
-<img src="/assets/empty_screen.png" width="375" alt="Empty screen" />
+<img src="./assets/empty_screen.png" width="375" alt="Empty screen" />
 </p>
 
 #### Состояние загрузки данных
