@@ -19,7 +19,7 @@
 :white_check_mark: В процессе загрузки доступных для скачивания файлов должен отображаться прогресс загрузки.  
 
 <p align="center">
-<img src="./docs/assets/file_downloading_process.png" width="375" alt="File downloading process" />
+<img src="./assets/file_downloading_process.png" width="375" alt="File downloading process" />
 </p>
 
 #### Модалка “Добавление ссылки”
@@ -30,13 +30,13 @@
 :x: Если в буфере обмена есть ссылка формата .pdf обеспечьте её автоматическую подстановку в поле ввода url.  
 
 <div class="row" align="center">
-  <img src="./docs/assets/modal_bottom_sheet.png" width="375" alt="ModalBottomSheet" style="margin-right: 30px;" />
-  <img src="./docs/assets/modal_bottom_sheet_with_keyboard.png" width="375" alt="ModalBottomSheet with keyboard" />
+  <img src="./assets/modal_bottom_sheet.png" width="375" alt="ModalBottomSheet" style="margin-right: 30px;" />
+  <img src="./assets/modal_bottom_sheet_with_keyboard.png" width="375" alt="ModalBottomSheet with keyboard" />
 </div>
 
 <div class="row" align="center">
-  <img src="./docs/assets/link_validation.png" width="375" alt="LinkValidation" style="margin-right: 30px;" />
-  <img src="./docs/assets/link_validation_error.png" width="375" alt="LinkValidationError" />
+  <img src="./assets/link_validation.png" width="375" alt="LinkValidation" style="margin-right: 30px;" />
+  <img src="./assets/link_validation_error.png" width="375" alt="LinkValidationError" />
 </div>
 
 #### Компонент “Билет”
@@ -57,7 +57,7 @@
 :pencil2: Тап работает но коллбэка нет
 
 <p align="center">
-<img src="./docs/assets/tickets_list.png" width="375" alt="Tickets list" />
+<img src="./assets/tickets_list.png" width="375" alt="Tickets list" />
 </p>
 
 ## Итого:
@@ -72,7 +72,7 @@
 :x: Сохранение списка файлов в локальном хранилище.  
 
 <p align="center">
-<img src="./docs/assets/snack_bar.png" width="375" alt="Snack bar" />
+<img src="./assets/snack_bar.png" width="375" alt="Snack bar" />
 </p>
 
 ### Задание 3
@@ -89,9 +89,9 @@
 :white_check_mark: Открытие pdf файла для просмотра на отдельном экране.  
 
 <p align="center">
-<img src="./docs/assets/view_pdf_file.png" width="375" alt="View pdf file" />
+<img src="./assets/view_pdf_file.png" width="375" alt="View pdf file" />
 </p>
 
 <p align="center">
-<img src="./docs/assets/show_in_gif.gif" width="375" alt="Show in gif" />
+<img src="./assets/show_in_gif.gif" width="375" alt="Show in gif" />
 </p>
